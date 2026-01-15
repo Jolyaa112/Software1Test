@@ -1,1 +1,1 @@
-print ('Hello, Jolya Al Ktefan!')
+print('test')
